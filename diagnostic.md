@@ -70,7 +70,7 @@ line? (5 bullet points)
 // your response here
 ```
 
-What is the command to scaffold a pet with a name and age attributes (hint:
+What is the command to scaffold a pet with name and weight attributes (hint:
 Also think of the data types for each attribute)?
 
 ```bash
